@@ -32,18 +32,18 @@ Recruitment India ([Android App](https://play.google.com/store/apps/details?id=i
 
 MyEatable [Website](http://myeatable.com/) and [Android App](https://play.google.com/store/apps/details?id=com.myeatable.android) - Delivers food from popular restaurants in Ongole, India.
 
-### 🔭  I’m currently working on
+## 🔭   I’m currently working on
 Developing a series of simple yet powerful WordPress Plugins to make WordPress sites fatser, secure, customizable and user friendly.
 
-### 🌱  I’m currently learning
+## 🌱   I’m currently learning
 + Python 
 + MVP Pattern for Android 
 
-### 📫  How to reach me?
+## 📫   How to reach me?
 You can get in touch with me at amar@geekdashboard.com
 
-### 🍔 Buy me a Burger
+## 🍔   Buy me a Burger
 I love burgers. [Buy me one](https://www.buymeacoffee.com/amarilindra) 
 
-### ⚡ Fun fact
+## ⚡  Fun fact
 The first computer “bug” was named after a real bug
