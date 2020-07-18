@@ -1,3 +1,7 @@
+<h1 align="center"> 🐾  Hey There! This is Amar Ilindra</h1>
+<h3 align="center">WordPress, Android Apps Developer | Blogger | Dog Lover</h3>
+
+
 ## 🔥 Recent Projects
 
 [Geek Dashboard](https://www.geekdashboard.com) - WordPress site running on custom build Genesis child theme.
@@ -45,5 +49,7 @@ You can get in touch with me at amar@geekdashboard.com
 ## 🍔   Buy me a Burger
 I love burgers. [Buy me one](https://www.buymeacoffee.com/amarilindra) 
 
-## ⚡  Fun fact
-The first computer “bug” was named after a real bug
+## ⚡  Fun facts
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amarilindra&show_icons=true" alt="Amar Ilindra" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amarilindra" alt="Amar Ilindra" /> </p>
