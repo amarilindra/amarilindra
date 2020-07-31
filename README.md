@@ -14,6 +14,8 @@ WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin]
 
 [WA Status Saver](https://play.google.com/store/apps/details?id=com.wa.status.saver) - Download your friend's WhatsApp status. Supports both images and videos.
 
+[Infinite Scroll for Genesis](https://wordpress.org/plugins/infinite-scrolling/) - Easily add infinite scroll to your WordPress theme running on Genesis Framework. 
+
 [Show Hide Mac Desktop Icons](https://github.com/amarilindra/Show-Hide-Mac-Desktop-Icons) - Simple Automator app written is shell script that toggles the visibility of desktop icons in macOS.
 
 [Unseenly](https://chrome.google.com/webstore/detail/unseenly/mmjginkjeljiaiafplppfkfdindcjkfi) - Chrome extension to disable seen feature in Facebook chat and Messenger. 
