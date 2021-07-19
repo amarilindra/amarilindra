@@ -45,7 +45,7 @@ Developing a series of simple yet powerful WordPress Plugins to make WordPress s
 
 ## 🌱   I’m currently learning
 + Python 
-+ MVP Pattern for Android 
++ MVVM Pattern for Android 
 
 ## 📫   How to reach me?
 You can get in touch with me at amar@geekdashboard.com
