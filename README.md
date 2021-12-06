@@ -6,8 +6,6 @@
 
 [Geek Dashboard](https://www.geekdashboard.com) - WordPress site running on custom build Genesis child theme.
 
-[Notification History Log](https://play.google.com/store/apps/details?id=com.ikvaesolutions.notificationhistorylog) - Easily manage, sort and view all past Android notifications
-
 WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin](https://wordpress.org/plugins/wp-droid/) | [Android App Demo](https://play.google.com/store/apps/details?id=com.geekdashboard.android)
 
 [WA Direct Chat](https://play.google.com/store/apps/details?id=com.ikvaesolutions.wadirectmessage) - Start a WhatsApp conversation without saving the contact number.
@@ -21,6 +19,11 @@ WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin]
 [Unseenly](https://chrome.google.com/webstore/detail/unseenly/mmjginkjeljiaiafplppfkfdindcjkfi) - Chrome extension to disable seen feature in Facebook chat and Messenger. 
 
 [WP Rest API Customizer](https://wordpress.org/plugins/wp-rest-api-customizer/) - Customize the WordPress rest API end points and response. 
+
+
+## 🤑 Sold 
+
+[Notification History Log](https://play.google.com/store/apps/details?id=com.ikvaesolutions.notificationhistorylog) - Easily manage, sort and view all past Android notifications. Read [ownership change announcement](https://ikvaesolutions.com/notification-history-log-ownership-change/).
 
 ## 💰 Recent Clients
 
