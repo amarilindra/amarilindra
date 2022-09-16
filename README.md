@@ -27,14 +27,14 @@ WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin]
 
 ## 💰 Recent Clients
 
-TechGlare Deals - [Android App](https://play.google.com/store/apps/details?id=com.techglaredeals&hl=en_IN&gl=US) and [Website](https://www.techglaredeals.com/) - Works round the clock to bring you the best handpicked deals in various online shopping sites. 
+TechGlare Deals - [Android App](https://play.google.com/store/apps/details?id=com.techglaredeals&hl=en_IN&gl=US) and [Website](https://www.techglaredeals.com/) - Works round the clock to bring you the best handpicked deals in various online shopping sites. Deal Finder is one of it's kind that let's you quickly find, filter, sort products on Amazon with 70%+ discount. 
 
 
 [MoviesDrop](https://play.google.com/store/apps/details?id=com.moviesdrop&hl=en_IN) (Android App) - Community for Movies, TV Series & Documentaries. Unbiased reviews, updates about your favorite Films & TV Shows.
 
 [BookWritten](https://play.google.com/store/apps/details?id=com.bookwritten&hl=en_IN) (Android App) - The best way to search, remember and organise your books.
 
-[JNTU Fast Updates](https://play.google.com/store/apps/details?id=com.jntufastupdates&hl=en_IN) (Android App and WordPress Plugin. Works on WP Droid) - The official JNTU Fast Updates app to get Latest notifications, results, time tables etc.
+[JNTU Fast Updates](https://play.google.com/store/apps/details?id=com.jntufastupdates&hl=en_IN) (Android App and WordPress Plugin. Works on WP Droid) - The official JNTU Fast Updates app to get Latest notifications, results, time tables, SGPA & CGPA calculator etc.
 
 Recruitment India ([Android App](https://play.google.com/store/apps/details?id=in.recruitmentindia&hl=en_IN) based on WP Droid, [WordPress Theme](https://recruitmentindia.in/) and WordPress Plugins ([Plugin 1](https://recruitmentindia.in/govt-jobs-in-ap/) | [Plugin 2](https://exams.recruitmentindia.in/questions/technical/networking/))) - Helping over 1.5 million students across India every month with preparation guides, exams, notifications and more
 
