@@ -47,11 +47,12 @@ Recruitment India ([Android App](https://play.google.com/store/apps/details?id=i
 MyEatable [Website](http://myeatable.com/) and [Android App](https://play.google.com/store/apps/details?id=com.myeatable.android) - Delivers food from popular restaurants in Ongole, India.
 
 ## 🔭   I’m currently working on
-Developing a series of simple yet powerful WordPress Plugins to make WordPress sites fatser, secure, customizable and user friendly.
++ Kotlin Coroutines
++ Series of simple yet powerful WordPress Plugins to make WordPress sites fatser, secure, customizable and user friendly.
 
 ## 🌱   I’m currently learning
 + Python 
-+ React Native
++ Jetpack Compose
 
 ## 📫   How to reach me?
 You can get in touch with me at amar@geekdashboard.com
