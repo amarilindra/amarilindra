@@ -64,6 +64,4 @@ I love burgers. [Buy me one](https://www.buymeacoffee.com/amarilindra)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=amarilindra)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amarilindra&show_icons=true)
-
 <img src="https://komarev.com/ghpvc/?username=amarilindra" alt="Amar Ilindra" />
