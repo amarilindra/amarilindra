@@ -31,6 +31,8 @@ WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin]
 
 ## 💰 Recent Clients
 
+[BBI Law Group](https://www.ilindralawgroup.net/) (Custom WordPress Theme and Plugin Development) - Represent clients in various inbound and outbound US immigration cases
+
 TechGlare Deals - [Android App](https://play.google.com/store/apps/details?id=com.techglaredeals&hl=en_IN&gl=US) and [Website](https://www.techglaredeals.com/) - Works round the clock to bring you the best-handpicked deals in various online shopping sites. Deal Finder is one of its kind that lets you quickly find, filter, and sort products on Amazon with 70%+ discount. 
 
 [MoviesDrop](https://play.google.com/store/apps/details?id=com.moviesdrop&hl=en_IN) (Android App) - Community for Movies, TV Series & Documentaries. Unbiased reviews, and updates about your favorite Films & TV Shows.
@@ -42,6 +44,8 @@ TechGlare Deals - [Android App](https://play.google.com/store/apps/details?id=co
 Recruitment India ([Android App](https://play.google.com/store/apps/details?id=in.recruitmentindia&hl=en_IN) based on WP Droid, [WordPress Theme](https://recruitmentindia.in/) and WordPress Plugins ([Plugin 1](https://recruitmentindia.in/govt-jobs-in-ap/) | [Plugin 2](https://exams.recruitmentindia.in/questions/technical/networking/))) - Helping over 1.5 million students across India every month with preparation guides, exams, notifications and more
 
 [Rajini Vidadala - MLA, Chilakaluripet (YSRCP)](https://play.google.com/store/apps/details?id=com.rajinividadala&hl=en_IN) (Android App) - The official Android app for Rajini Vidadala garu - MLA, Chilakaluripet (YSRCP)
+
+[Manabadi](http://www.manabadi.co.in/) (Android App and Custom Backend) - Offers a wide range of services, including exam results, exam timetables, hall ticket downloads, and notifications about various educational events
 
 [Signature Grill](https://thesignaturegrill.com/) (Website and Android App) - Globalizing Indian food with 3-FACTOR formula - FAST, FLAVOR and FILLING.
 
