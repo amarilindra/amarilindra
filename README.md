@@ -33,7 +33,6 @@ WP Droid - Convert WordPress website to native Android app. | [WordPress Plugin]
 
 TechGlare Deals - [Android App](https://play.google.com/store/apps/details?id=com.techglaredeals&hl=en_IN&gl=US) and [Website](https://www.techglaredeals.com/) - Works round the clock to bring you the best-handpicked deals in various online shopping sites. Deal Finder is one of its kind that lets you quickly find, filter, and sort products on Amazon with 70%+ discount. 
 
-
 [MoviesDrop](https://play.google.com/store/apps/details?id=com.moviesdrop&hl=en_IN) (Android App) - Community for Movies, TV Series & Documentaries. Unbiased reviews, and updates about your favorite Films & TV Shows.
 
 [BookWritten](https://play.google.com/store/apps/details?id=com.bookwritten&hl=en_IN) (Android App) - The best way to search, remember and organize your books.
